@@ -4,9 +4,9 @@ This repository contains data from the story ["How The Daily Wire Uses Facebook'
 ## Data
 The `data/` directory contains three csv files with data from the story.
 
-1. `daily-wire-50-ad-interests.csv` contains the top 50 interest categories used by the Daily Wire in Facebook ads targeted by interest.
-2. `nyt-50-ad-interests.csv` contains the top 50 interest categories used by the New York Times in Facebook ads targeted by interest.
-3. `nyt-dw-targeting-types.csv` shows the type of targeting used across all posts from the Daily Wire and the New York Times for which Citizen Browser could obtain targeting information during the time of this investigation.
+1. `daily-wire-50-ad-interests.csv` contains the top 50 interest categories used by The Daily Wire in Facebook ads targeted by interest.
+2. `nyt-50-ad-interests.csv` contains the top 50 interest categories used by The New York Times in Facebook ads targeted by interest.
+3. `nyt-dw-targeting-types.csv` shows the type of targeting used across all posts from The Daily Wire and The New York Times for which Citizen Browser could obtain targeting information during the time of this investigation.
 
 -----
 
